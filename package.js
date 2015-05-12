@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Use plain-text passwords in accounts-password, but warn loudly if not using SSL.",
-  version: '0.0.1'
+  version: '0.1.0'
 });
 
 Package.onUse(function(api) {

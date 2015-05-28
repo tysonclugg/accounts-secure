@@ -1,6 +1,6 @@
 Package.describe({
   name: 'tysonclugg:accounts-secure',
-  version: '0.1.0',
+  version: '0.2.0',
   summary: 'Use plain-text passwords in accounts-password, but warn loudly if not using SSL.',
   git: 'https://github.com/tysonclugg/accounts-secure',
   documentation: 'README.md'
